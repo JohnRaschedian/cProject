@@ -19,4 +19,4 @@ int main() {
 
 //  Output: 
 //  The length of the rectangle is 5
-//  The length of the rectangle is 2.500000
+//  The width of the rectangle is 2.500000
